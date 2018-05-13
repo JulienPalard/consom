@@ -107,3 +107,22 @@ About using a Raspberry PI
 It should be possible to use a Raspberry PI instead of an Arduino, but
 you'll need an analog input, the Raspberry PI doesn't have one, so
 you'll need an ADC.
+
+
+Using a stripboard
+------------------
+
+As the circuit is simple, it's possible to make it on a stripboard as
+an arduino shell, I did mine like this (yes the bottom left blob is a
+fix, I wrongly cut the line):
+
+.. image:: img/stripboard_top.jpg
+   :alt: Stripboard top
+
+.. image:: img/stripboard_bottom.jpg
+   :alt: Stripboard bottom
+
+And it mounts nicely like this:
+
+.. image:: img/stripboard_mounted.jpg
+   :alt: Stripboard mounted
