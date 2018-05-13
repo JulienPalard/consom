@@ -122,7 +122,8 @@ fix, I wrongly cut the line):
 .. image:: img/stripboard_bottom.jpg
    :alt: Stripboard bottom
 
-And it mounts nicely like this:
+And it mounts nicely like this (blue and red are blue and white from
+the SCT-013-000):
 
 .. image:: img/stripboard_mounted.jpg
    :alt: Stripboard mounted
